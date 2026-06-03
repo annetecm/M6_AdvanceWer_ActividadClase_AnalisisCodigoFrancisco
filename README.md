@@ -30,15 +30,15 @@
 
 ## Project frontend structure
 
-*Frontend
-  *src/
-    *components/ 
-      *Dashboard.jsx 
-    *services/ 
-      *metricsService.js 
-    *App.jsx
-    *main.jsx
-  *package.json
+- Frontend
+  - src/
+    - components/ 
+      - Dashboard.jsx 
+    - services/ 
+      - metricsService.js 
+    - App.jsx
+    - main.jsx
+  - package.json
 
 The components folder contains the visual components in React of the page 
 The services folder contains the connection with the backend, which returns the contents of the main table
